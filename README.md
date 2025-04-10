@@ -1,4 +1,6 @@
-[![Photo](githubprof.png)](https://github.com/nlong1/nlong1/blob/main/githubprof.png)
+<a href="https://github.com/austinbeckstead/austinbeckstead/main/githubprof.png">
+  <img src="ProfilePic.JPG" alt="Photo" width="150"/>
+</a>
 
 
 ## Austin Beckstead
